@@ -1,1 +1,1 @@
-"# Tangerine Module" 
+"# Custom module for Viindoo" 
